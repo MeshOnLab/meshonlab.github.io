@@ -1,9 +1,10 @@
 ---
 permalink: /wireless/
 layout: single
+classes: wide
 excerpt: "Wireless IoT Technology"
 
-toc: true
+toc: false
 ---
 
 Firmware/Software Development for IOT devices

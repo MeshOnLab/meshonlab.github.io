@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 layout: single
-classes: wide
+classes: wide2
 title: "About"
 excerpt: "Wireless IoT Technology"
 
