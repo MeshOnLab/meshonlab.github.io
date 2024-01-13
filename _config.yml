@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "메시온랩(주)"
 description              : "Wireless IoT Device Developement(Mesh Networking)"
-url                      : https://meshonlab.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://meshonlab.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"  
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -79,6 +79,11 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
 # Social Sharing
 twitter:
   username               :
@@ -107,7 +112,7 @@ author:
   name             : "Mesh-On Labs"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : " "
-  location         : " "
+  location         : "인천광역시 부평구 신촌로15번길 5"
   email            :
   links:
     - label: "Email"
@@ -135,7 +140,8 @@ footer:
     #- label: "GitHub"
     #  icon: "fab fa-fw fa-github"
       # url:
-
+  address1 : "인천광역시 부평구 신촌로15번길 5"
+  address2 : "서울시 구로구 디지털로 27길 36, 이스페이스 809-1호"
 
 # Reading Files
 include:
@@ -181,6 +187,7 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+
 
 
 # Markdown Processing
@@ -275,3 +282,11 @@ defaults:
       comments: # false
       share: false
       related: false
+  #_portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true            

@@ -3,18 +3,19 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/overlap.png
+  #overlay_color: "#5e616c"
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_image: /assets/images/firmware.jpg
   # actions:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
 excerpt: >
   Firmware/Software Development for IOT devices <br />
-  Bluetooth Low Engergy(BLE) <br />
-  Bluetooth Mesh <br />
-  WiFi <br />
-  Zigbee <br />
-  ZWave <br />
+  Bluetooth Low Engergy(BLE) <br/>
+  Bluetooth Mesh <br/>
+  WiFi <br/>
+  Zigbee <br/>
+  ZWave <br/>
 
 feature_row:
   - image_path: /assets/images/home1_500x300.png      # /assets/images/mm-customizable-feature.png
