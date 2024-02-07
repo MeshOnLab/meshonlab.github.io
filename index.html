@@ -1,64 +1,20 @@
-<!--
-Theme by: WebThemez.com
-Title: Ace Page under construction!!!
-Note: Please use our back link in your site (webthemez.com)
--->
-<!DOCTYPE HTML>
-<!--[if lt IE 7 ]> <html lang="en" class="ie ie6"> <![endif]--> 
-<!--[if IE 7 ]>	<html lang="en" class="ie ie7"> <![endif]--> 
-<!--[if IE 8 ]>	<html lang="en" class="ie ie8"> <![endif]--> 
-<!--[if IE 9 ]>	<html lang="en" class="ie ie9"> <![endif]--> 
-<!--[if !IE]><!--> <html lang="ko"> <!--<![endif]-->
-<head>
-<meta charset="utf-8">
-<title>Mesh-On Labs - Comming Soon!!!</title>
-<meta name="description" content="Mesh-On Labs Page under construction">
-<meta http-equiv="X-UA-Compatible" content="chrome=1">
-<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=PT+Sans+Narrow:regular,bold"> 
-<link rel="stylesheet" type="text/css" href="css/jquery.vegas.css">
-<link rel="stylesheet" type="text/css" href="css/styles.css">
-</head>
+---
+layout: default
+---
 
-<body id="home">
-<div id="Header">
-<div class="wrapper">
-	<h1>Mesh-On Labs</h1> <h2>&nbsp;-&nbsp;Wireless Mesh Networking Devices<br></h2>
-	<!--
-	<ul> 
-		<li><a href="" title="Twitter" class="twitterIcon"></a></li>
-		<li><a href="" title="facebook" class="facebookIcon"></a></li>
-		<li><a href="" title="linkedIn" class="linkedInIcon"></a></li>
-		<li><a href="" title="Pintrest" class="pintrestIcon"></a></li>
-	</ul>
-    -->
-</div>
-</div>
-<div id="Content" class="wrapper">
-	<h2>We are under construction</h2>
-<br/><br/> 
-<div class="countdown styled"></div>
-<!--
-	<div id="subscribe">
-	<h3>Stay in touch</h3>
-	<form action="" method="post" onsubmit="">
-		<p><input name="" value="Enter your e-mail" type="text" id=""/>
-		<input type="button" value="Submit"/></p>
-	</form>
-</div>
--->
-</div>
+<div class="home">
 
-<p align="center"><img src="assets/images/logo_small.png" alt="Mesh-On Labs"><br>주소: 인천광역시 연수구 송도미래로 30 A동 1407호<br>
-본사: 인천광역시 부평구 신촌로15번길 5<br>
-Copyright © Mesh-On Lab. All Rights Reserved.</small></p>  
+  <h1>Posts</h1>
 
-<footer><span>Template by: <a href="http://webthemez.com" alt="webthemez">WebThemez.com</a></span></footer>	 
-<div id="overlay"></div>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
 
-<!--Scripts-->
-<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
-<script type="text/javascript" src="js/jquery.vegas.min.js"></script>
-<script type="text/javascript" src="js/jquery.countdown.js"></script>
-<script type="text/javascript" src="js/global.js"></script>
-</body>
-</html>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

@@ -1,0 +1,69 @@
+
+# Site settings
+locale                   : "en-US"
+title                    : "Mesh-On Lab."
+title_separator          : "-"
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : "메시온랩(주)"
+description: "Wireless IoT Device Developement(Mesh Networking)"
+url                      : https://meshonlab.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+logo                     : "/assets/images/logo_opti.svg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+email: your-email@domain.com
+
+# Team names, titles and social links
+people:
+- name: Brandon
+  pic: 1
+  position: Lead Software Programmer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: BK
+  pic: 2
+  position: Lead Hardware Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: SC
+  pic: 3
+  position: Software Programmer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 인천광역시 부평구 신촌로15번길 5  
+  - line: 서울시 구로구 디지털로 27길 36, 이스페이스 809-1호  
+
+# Build settings
+markdown: kramdown
+permalink: pretty
