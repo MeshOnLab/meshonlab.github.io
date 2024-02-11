@@ -1,9 +1,9 @@
 ---
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "Rubik's Cube with BLE"
+excerpt: "루빅스 큐브 센서 회전 감지 및 LED 제어"
 header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  image: /assets/images/unsplash-gallery-image-2.jpg
+  teaser: assets/images/unsplash-gallery-image-2-th.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250

@@ -1,9 +1,9 @@
 ---
-title: "Ginger Gulp Identity"
-excerpt: "Ginger Gulp design system including logo mark, website design, and branding applications."
+title: "Inverting Welding Machine"
+excerpt: "Welding Machine MCU 교체(8051->ARM) 및 LCD GUI 추가 구현"
 header:
-  image: /assets/images/unsplash-gallery-image-3.jpg
-  teaser: assets/images/unsplash-gallery-image-3-th.jpg
+  image: /assets/images/projects/HRM_SPO2_reference/board_smartring_proto.jpg
+  teaser: /assets/images/projects/HRM_SPO2_reference/board_smartring_proto_tn.png
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
@@ -12,8 +12,8 @@ sidebar:
   - title: "Responsibilities"
     text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - url: /assets/images/projects/HRM_SPO2_reference/board_smartring_proto.jpg
+    image_path: /assets/images/projects/HRM_SPO2_reference/board_smartring_proto_tn.png
     alt: "placeholder image 1"
   - url: /assets/images/unsplash-gallery-image-2.jpg
     image_path: assets/images/unsplash-gallery-image-2-th.jpg
