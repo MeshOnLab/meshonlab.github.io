@@ -3,7 +3,6 @@ permalink: /about/
 layout: single
 classes: wide2
 title: "About"
-excerpt: "Wireless IoT Technology"
 toc: false
 ---
 무선 통신을 포함한 IoT 기기의 펌웨어/하드웨어 개발 업체입니다.   
