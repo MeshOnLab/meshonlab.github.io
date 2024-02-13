@@ -113,8 +113,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "IoT Devlopement Company"
   location         : "인천광역시 부평구 신촌로15번길 5"
-  location2        : "서울시 구로구 디지털로 27길 36, 이스페이스 809-1호"
-  email            :
+  email            : webmaster@meshonlab.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -156,7 +155,8 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-
+  address1       : "인천광역시 부평구 신촌로15번길 5"
+  address2       : "서울시 구로구 디지털로 27길 36, 이스페이스 809-1호"
 
 # Reading Files
 include:

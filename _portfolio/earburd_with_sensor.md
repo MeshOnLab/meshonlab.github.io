@@ -2,8 +2,8 @@
 title: "EarBurd with HRM sensor"
 excerpt: "Earburd 에 HRM 센서 추가 구현"
 header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  image: /assets/images/500x300.png
+  teaser: /assets/images/350x250.png
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
