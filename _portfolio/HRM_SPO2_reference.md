@@ -1,5 +1,6 @@
 ---
-title: "HRM/SPO2/Temperature referece board(BLE)"
+title: "HRM/SPO2/Temperature reference board(BLE)"
+classes: wide
 excerpt: "HRM SPO2 Temperatue 측정 BLE 전송 무선 충전 디바이스"
 header:
   image: /assets/images/projects/HRM_SPO2_reference/board_smartring_proto.jpg

@@ -1,5 +1,6 @@
 ---
 title: "Rubik's Cube with BLE"
+classes: wide
 excerpt: "루빅스 큐브 센서 회전 감지 및 LED 제어"
 header:
   image: /assets/images/unsplash-gallery-image-2.jpg

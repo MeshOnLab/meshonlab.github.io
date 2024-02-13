@@ -1,5 +1,6 @@
 ---
 title: "BGX replacment"
+classes: wide
 excerpt: "BGX Express 대치용 SPP 모듈 구현"
 header:
   image: /assets/images/projects/HRM_SPO2_reference/board_smartring_proto.jpg

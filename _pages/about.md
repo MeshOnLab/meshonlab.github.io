@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 layout: single
-classes: wide2
+classes: wide
 title: "About"
 toc: false
 ---

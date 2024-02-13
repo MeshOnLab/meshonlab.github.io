@@ -1,5 +1,6 @@
 ---
 title: "EarBurd with HRM sensor"
+classes: wide
 excerpt: "Earburd 에 HRM 센서 추가 구현"
 header:
   image: /assets/images/500x300.png
