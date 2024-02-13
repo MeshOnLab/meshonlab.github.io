@@ -1,0 +1,41 @@
+# main links
+main:
+  - title: "Wireless IoT"
+    url: /wireless/
+  - title: "Projects"
+    url: /portfolio/
+  - title: "About"
+    url: /about/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+wireless:
+  - title: "BLE"
+    children:
+      - title: "Documents Link"
+        url: /wireless/BLE/links
+      - title: "SoCs"
+        url: /wireless/BLE/socs/
+
+  - title: "Zigbee"
+    children:
+      - title: "Documents Link"
+        url: /wireless/Zigbee/links
+      - title: "SoCs"
+        url: /wireless/Zigbee/socs/
+
+  - title: "Thread"
+    children:
+      - title: "Documents Link"
+        url: /wireless/Thread/links
+      - title: "SoCs"
+        url: /wireless/Thread/socs/
+  - title: "WiFi"
+    children:
+      - title: "Documents Link"
+        url: /wireless/WiFi/links
+
+  - title: "Matter"
+    children:
+      - title: "Documents Link"
+        url: /wireless/Matter/links
