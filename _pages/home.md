@@ -17,7 +17,6 @@ excerpt: >
   Zigbee <br/>
   Z-Wave <br/>
   Matter <br/>
-
 feature_row:
   - image_path: /assets/images/home1_500x300.png      # /assets/images/mm-customizable-feature.png
     alt: "Firmware/Embedded Software"
