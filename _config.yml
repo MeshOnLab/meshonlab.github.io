@@ -23,7 +23,7 @@ name                     : "메시온랩(주)"
 description              : "Wireless IoT Device Developement(Mesh Networking)"
 url                      : https://www.meshonlab.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"  
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "MeshOnLab/meshonlab.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo_opti.svg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Mesh-On Lab." # overrides the website title displayed in the masthead, use " " for no title
