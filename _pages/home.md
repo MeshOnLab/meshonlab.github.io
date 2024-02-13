@@ -9,7 +9,6 @@ header:
   # actions:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
-excerpt: >
   Firmware/Software Development for IOT devices <br />
   Bluetooth Low Engergy(BLE) <br/>
   Bluetooth Mesh <br/>
