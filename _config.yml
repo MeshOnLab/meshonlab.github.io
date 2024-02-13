@@ -12,7 +12,7 @@
 
 # theme                    : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin    : "default" # "aqua", "air", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -30,7 +30,7 @@ masthead_title           : " " # overrides the website title displayed in the ma
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "false" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -111,8 +111,9 @@ analytics:
 author:
   name             : "Mesh-On Labs"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : " "
+  bio              : "IoT Devlopement Company"
   location         : "인천광역시 부평구 신촌로15번길 5"
+  location2        : "서울시 구로구 디지털로 27길 36, 이스페이스 809-1호"
   email            :
   links:
     - label: "Email"
@@ -136,12 +137,26 @@ author:
 
 # Site Footer
 footer:
-  # links: 
-    #- label: "GitHub"
-    #  icon: "fab fa-fw fa-github"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
       # url:
-  address1 : "인천광역시 부평구 신촌로15번길 5"
-  address2 : "서울시 구로구 디지털로 27길 36, 이스페이스 809-1호"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url:
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
+
 
 # Reading Files
 include:
