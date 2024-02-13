@@ -2,6 +2,8 @@
 layout: splash
 permalink: /
 hidden: true
+excerpt: "Firmware/Software Development for IOT devices <br/>Bluetooth Low Engergy(BLE) <br/>Bluetooth Mesh <br/>WiFi <br/>Zigbee <br/>Z-Wave <br/>Matter <br/>"
+
 header:
   #overlay_color: "#5e616c"
   overlay_image: /assets/images/firmware.jpg
@@ -9,7 +11,6 @@ header:
   # actions:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
-  excerpt: "Firmware/Software Development for IOT devices <br/>Bluetooth Low Engergy(BLE) <br/>Bluetooth Mesh <br/>WiFi <br/>Zigbee <br/>Z-Wave <br/>Matter <br/>"
 
 feature_row:
   - image_path: /assets/images/home1_500x300.png      # /assets/images/mm-customizable-feature.png
