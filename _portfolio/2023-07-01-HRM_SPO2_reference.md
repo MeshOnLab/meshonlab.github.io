@@ -3,15 +3,7 @@ title: "HRM/SPO2/Temperature reference board(BLE)"
 classes: wide
 excerpt: "HRM SPO2 Temperatue 측정 BLE 전송 무선 충전 디바이스"
 header:
-  image: /assets/images/projects/HRM_SPO2_reference/board_smartring_proto.jpg
   teaser: /assets/images/projects/HRM_SPO2_reference/board_smartring_proto_tn.png
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "HW Design, Firmware"
-  - title: "Responsibilities"
-    text: "프로토보드에서 센서 동작 제어 및 BLE 를 통한 데이터 전송"
 gallery:
   - url: assets/images/projects/HRM_SPO2_reference/board_smartring_proto.jpg
     image_path: /assets/images/projects/HRM_SPO2_reference/board_smartring_proto_tn.png
@@ -28,3 +20,5 @@ SiliconLabs BLE SoC 기반에 HRM/SPO2 센서, 온도 센서, 무선 충전 기�
 
 {% include gallery caption="테스트 보드 및 PC를 통한 파형 출력" %}
 
+제조사 제공 Device Test 보드용 프로그램과 통신하도록 테스트 펌웨어 개발 
+프로토보드에서 센서 동작 제어 및 BLE 를 통한 데이터 전송
