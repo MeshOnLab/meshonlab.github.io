@@ -16,3 +16,5 @@ gallery:
 ---
 
 BL652 와 통신을 위한 SPP BLE 모듈 
+
+# {% include gallery caption="테스트 보드 및 PC를 통한 파형 출력" %}

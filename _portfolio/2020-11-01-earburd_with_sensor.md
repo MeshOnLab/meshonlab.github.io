@@ -3,25 +3,19 @@ title: "EarBurd with HRM sensor"
 classes: wide
 excerpt: "Earburd 에 HRM 센서 추가 구현"
 header:
-  image: /assets/images/500x300.png
-  teaser: /assets/images/350x250.png
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Firmware Developer"
-  - title: "Responsibilities"
-    text: "Hardware Design Review and Firmwe Development"
+  teaser: /assets/images/projects/earbud/IMG_5756_th.png
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - url: /assets/images/projects/earbud/IMG_5756.jpg
+    image_path: /assets/images/projects/earbud/IMG_5756_th.png
     alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+  - url: /assets/images/projects/earbud/test_board_1st.jpg
+    image_path: /assets/images/projects/earbud/test_board_1st_th.png
     alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/projects/earbud/test_board_2nd.jpg
+    image_path: /assets/images/projects/earbud/test_board_2nd_th.png
+    alt: "placeholder image 3"      
 ---
+
+{% include gallery caption="테스트 보드" %}
 
 QCC3046 + MAX32664 + MAXM86161 + KX122 + BMX160 
