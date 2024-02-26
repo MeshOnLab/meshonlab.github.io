@@ -20,4 +20,4 @@ BGX Express 가 단종 되어서, 기존 제품 생산 대치용 모듈 개발
 기존 BGX 모듈에 대한 문서 링크 : 없어짐 ~~<(https://www.silabs.com/products/wireless/bluetooth/xpress)~~
 
 BGX13 에 대한 공식 문서  
-<a href="https://docs.silabs.com/gecko-os/1/bgx/latest/" target="_blank" style="word-break:break-all;">(https://docs.silabs.com/gecko-os/1/bgx/latest/)</a> 
+[https://docs.silabs.com/gecko-os/1/bgx/latest](https://docs.silabs.com/gecko-os/1/bgx/latest/){:target="_blank"} 
