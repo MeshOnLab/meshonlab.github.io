@@ -4,13 +4,15 @@ permalink: /
 hidden: true
 header:
   #overlay_color: "#5e616c"
-  overlay_image: /assets/images/firmware.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_image: /assets/images/firmware.jpg
   # actions:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
 excerpt: >
     Firmware/Software Development for IOT devices <br/>Bluetooth Low Engergy(BLE) <br/>Bluetooth Mesh <br/>WiFi <br/>Zigbee <br/>Z-Wave <br/>Matter <br/>
+intro: 
+  - excerpt: ' '
 feature_row:
   - image_path: /assets/images/home1_500x300.png      # /assets/images/mm-customizable-feature.png
     alt: "Firmware/Embedded Software"
@@ -34,5 +36,7 @@ feature_row:
     # btn_class: "btn--primary"
     # btn_label: "Learn more"      
 ---
+
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
