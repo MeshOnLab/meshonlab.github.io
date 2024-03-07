@@ -8,11 +8,11 @@ gallery:
   - url: assets/images/projects/HRM_SPO2_reference/board_smartring_proto.jpg
     image_path: /assets/images/projects/HRM_SPO2_reference/board_smartring_proto_tn.png
     alt: "placeholder image 1"
-  - url: assets/images/projects/HRM_SPO2_reference/senser_data_on_pc.jpg
-    image_path: assets/images/projects/HRM_SPO2_reference/senser_data_on_pc.jpg
+  - url: assets/images/projects/HRM_SPO2_reference/sensor_data_on_pc.jpg
+    image_path: assets/images/projects/HRM_SPO2_reference/sensor_data_on_pc_tn.png
     alt: "sesnor waveform on pc"
   - url: assets/images/projects/HRM_SPO2_reference/board_debug_connect.png
-    image_path: assets/images/projects/HRM_SPO2_reference/board_debug_connect.png
+    image_path: assets/images/projects/HRM_SPO2_reference/board_debug_connect_tn.png
     alt: "board debugger connection"
 ---
 
