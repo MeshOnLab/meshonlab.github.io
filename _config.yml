@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR" # "en-US"
-title                    : "Mesh-On Lab."
+title                    : "메시온랩(주)"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "메시온랩(주)"
+subtitle                 : "Wireless IoT" # site tagline that appears below site title in masthead
+name                     : "메시온랩(주) (Mesh-On Lab.)"
 description              : "Wireless IoT Device Developement(Mesh Networking)"
 url                      : https://www.meshonlab.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"  
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
