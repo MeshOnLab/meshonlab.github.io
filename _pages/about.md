@@ -1,8 +1,9 @@
 ---
 permalink: /about/
+title: "About"
+excerpt: "Mesh-On Lab is a Wireless IoT firmware/software company."  
 layout: single
 classes: wide
-title: "About"
 toc: false
 ---
 무선 통신을 포함한 IoT 기기의 펌웨어/하드웨어 개발 업체입니다.   

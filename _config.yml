@@ -83,6 +83,10 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  wireless:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Social Sharing
 twitter:
@@ -292,17 +296,30 @@ defaults:
     values:
       layout: single
       author_profile: false
-      read_time: true
-      comments: # false
+      read_time: false
+      comments: false
       share: false
       related: false
-  #_portfolio
+  # _portfolio
   - scope:
       path: ""
       type: portfolio
     values:
       layout: single
+      read_time: false
       author_profile: false
-      share: false            
+      share: false
+  # _wireless
+  - scope:
+      path: ""
+      type: wireless
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "wireless"
 
 github: [metadata]

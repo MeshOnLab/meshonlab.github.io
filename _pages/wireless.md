@@ -1,10 +1,17 @@
 ---
+title: "Wireless IoT"
+### _docs 와 receipt 를 참고한다.
+layout: collection
 permalink: /wireless/
-layout: single
+collection: wireless
 classes: wide
+author_profile: false
+sort_by: date
+sort_order: reverse
 sidebar:
   nav: "wireless"
 toc: false
 ---
 
-문서 정리 중....
+Minimal Mistakes 의 문서를 가져와서 동작을 확인한다.
+

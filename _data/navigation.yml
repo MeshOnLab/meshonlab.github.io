@@ -10,32 +10,18 @@ main:
   #   url: /sitemap/
 
 wireless:
-  - title: "BLE"
+  - title: "Useful Links"
     children:
-      - title: "Documents Link"
+      - title: "BLE Documents Link"
         url: /wireless/BLE/links
-      - title: "SoCs"
+      - title: "BLE SoCs"
         url: /wireless/BLE/socs/
-
-  - title: "Zigbee"
-    children:
-      - title: "Documents Link"
+      - title: "Zigbee Documents"
         url: /wireless/Zigbee/links
-      - title: "SoCs"
-        url: /wireless/Zigbee/socs/
-
-  - title: "Thread"
-    children:
-      - title: "Documents Link"
+      - title: "Thread Documents"
         url: /wireless/Thread/links
-      - title: "SoCs"
-        url: /wireless/Thread/socs/
-  - title: "WiFi"
-    children:
-      - title: "Documents Link"
+      - title: "WiFi Documents"
         url: /wireless/WiFi/links
-
-  - title: "Matter"
-    children:
-      - title: "Documents Link"
+      - title: "Matter Documents"
         url: /wireless/Matter/links
+  - title: "Test Logs"
