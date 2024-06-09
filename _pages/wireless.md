@@ -13,5 +13,5 @@ sidebar:
 toc: false
 ---
 
-Minimal Mistakes 의 문서를 가져와서 동작을 확인한다.
+수정 예정
 
