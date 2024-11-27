@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Mesh-On Lab is a Wireless IoT firmware/software company."  
+excerpt: "Mesh-On Lab is a Wireless IoT hardware/firmware company."  
 layout: single
 classes: wide
 toc: false
