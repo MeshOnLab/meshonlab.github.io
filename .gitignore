@@ -20,6 +20,9 @@ $RECYCLE.BIN/
 *~
 *.sw[p_]
 
+# IntelliJ IDEA
+*.idea
+
 # Sublime Text
 *.sublime-project
 *.sublime-workspace
@@ -38,8 +41,6 @@ codekit-config.json
 
 # macOS
 .DS_Store
-.AppleDouble
-.LSOverride
 
 # Icon must ends with two \r.
 Icon

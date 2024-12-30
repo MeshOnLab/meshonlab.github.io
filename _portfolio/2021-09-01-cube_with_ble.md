@@ -1,7 +1,8 @@
 ---
 title: "루빅스 큐브 BLE"
+excerpt: "루빅스 큐브 - 센서 회전 감지 및 LED 제어"
 classes: wide
-excerpt: "루빅스 큐브 센서 회전 감지 및 LED 제어"
+
 gallery:
   - url: /assets/images/projects/rubik's_cube_ble/cube_power_test.png
     image_path: /assets/images/projects/rubik's_cube_ble/cube_power_test.png
