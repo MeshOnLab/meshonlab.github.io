@@ -1,7 +1,7 @@
 ---
 title: "BLE 관련 참고 할만 문서 링크"
 permalink: /wireless/BLE/links/
-excerpt: "링크를 위한 파일 생성"
+excerpt: " "
 classes: wide
 sidebar:
   nav: "wireless"
@@ -21,7 +21,7 @@ Periodic Advertising 에 대한 이해에 도움이됨.
 [The Basics of Bluetooth LE Audio](https://www.maximintegrated.com/en/design/technical-documents/app-notes/7/7342.html)  
   
 [Audio over Bluetooth: most detailed information about profiles, codecs, and devices / Habr](https://habr.com/ru/articles/427997/)  
-(번역기 필수:러시아어어)  
+(번역기 필수:러시아어)  
 
 #### 실리콘랩 BLE Advertising 관련 문서  
 
